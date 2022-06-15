@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\bin\Debug\net5.0\Poly.exe
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\bin\Debug\net5.0\Poly.deps.json
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\bin\Debug\net5.0\Poly.runtimeconfig.json
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\bin\Debug\net5.0\Poly.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\bin\Debug\net5.0\Poly.dll
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\bin\Debug\net5.0\ref\Poly.dll
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\bin\Debug\net5.0\Poly.pdb
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\obj\Debug\net5.0\Poly.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\obj\Debug\net5.0\Poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\obj\Debug\net5.0\Poly.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\obj\Debug\net5.0\Poly.AssemblyInfo.cs
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\obj\Debug\net5.0\Poly.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\obj\Debug\net5.0\Poly.dll
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\obj\Debug\net5.0\ref\Poly.dll
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\obj\Debug\net5.0\Poly.pdb
+C:\Users\DELL\Desktop\project 1\Wellahealth  assignment on polymorphism\Poly\obj\Debug\net5.0\Poly.genruntimeconfig.cache
